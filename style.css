@@ -1,0 +1,46 @@
+.ui.borderless.topmenu.menu{
+  background-color: #0087c7;
+  box-shadow: none;
+  height: 70px;
+  color: white;
+}
+
+.ui.borderless.middle.menu{
+  background-color: #0087c7;
+  box-shadow: none;
+  height: 40px;
+  color: white;
+}
+.ui.borderless.middle.menu:hover{
+  color: white;
+  background-color: #0087c7;
+}
+#maniimg{
+  margin-top: -15px;
+}
+
+#low{
+  background-color: lightgrey;
+  box-shadow: none;
+  height: 40px;
+  color: black;
+  margin-bottom:0px;
+}
+#low>div>div>a{
+  color:black;
+  margin-left:15px;
+
+}
+#lowest>div>div>a{
+  color:white;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+#lowest{
+  margin-top: 0px;
+  background-color: #0087c7;
+  box-shadow: none;
+  height:40px;
+  color: white;
+
+}
